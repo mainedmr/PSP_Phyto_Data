@@ -779,20 +779,118 @@
 "778","Phyto050922PSP11.117","CAS CF3","PSP11.117",2022-05-09,"43.71199","-70.18787","Dsum","22","DSP","Dinophysis",22,"Present",750,"Phyto050922PSP11.117 Dsum",2022-05-09
 "779","Phyto050922PSP14.21","Newagen","PSP14.21",2022-05-09,"43.78639","-69.65778","Dsum","40","DSP","Dinophysis",40,"Present",750,"Phyto050922PSP14.21 Dsum",2022-05-09
 "780","Phyto050922PSP16.41","Port Clyde","PSP16.41",2022-05-09,"43.92526","-69.259","Dsum","0","DSP","Dinophysis",0,"None Detected",750,"Phyto050922PSP16.41 Dsum",2022-05-09
-"781","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","AL","322","Shellfish Stressor","Alexandrium",322,"Abundant",100,"Phyto052522PSP11.110 AL",2022-05-25
-"782","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","PNLG","352","Shellfish Stressor","Alexandrium",352,"Abundant",100,"Phyto052522PSP11.110 PNLG",2022-05-25
-"783","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","PNSM","368","Shellfish Stressor","Alexandrium",368,"Abundant",100,"Phyto052522PSP11.110 PNSM",2022-05-25
-"784","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","DA","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto052522PSP11.110 DA",2022-05-25
-"785","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto052522PSP11.110 DN",2022-05-25
-"786","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","Dsum","23","DSP","Dinophysis",23,"Present",750,"Phyto052522PSP11.110 Dsum",2022-05-25
-"787","Phyto052522PSP11.111","CAS LON","PSP11.111",2022-05-25,"43.708","-70.159","AL","240","Shellfish Stressor","Alexandrium",240,"Abundant",100,"Phyto052522PSP11.111 AL",2022-05-25
-"788","Phyto052522PSP11.111","CAS LON","PSP11.111",2022-05-25,"43.708","-70.159","PNSM","458","Shellfish Stressor","Alexandrium",458,"Abundant",100,"Phyto052522PSP11.111 PNSM",2022-05-25
-"789","Phyto052522PSP11.111","CAS LON","PSP11.111",2022-05-25,"43.708","-70.159","PNLG","188","Shellfish Stressor","Alexandrium",188,"Abundant",100,"Phyto052522PSP11.111 PNLG",2022-05-25
-"790","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","AL","82","Shellfish Stressor","Alexandrium",82,"Present",100,"Phyto052522PSP16.41 AL",2022-05-25
-"791","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","PNLG","30","Shellfish Stressor","Alexandrium",30,"Present",100,"Phyto052522PSP16.41 PNLG",2022-05-25
-"792","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto052522PSP16.41 DN",2022-05-25
-"793","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto052522PSP16.41 Dsum",2022-05-25
-"794","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","AL","68","Shellfish Stressor","Alexandrium",68,"Present",100,"Phyto052522PSP14.21 AL",2022-05-25
-"795","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","DN","38","Shellfish Stressor","Alexandrium",38,"Present",100,"Phyto052522PSP14.21 DN",2022-05-25
-"796","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","DA","22","Shellfish Stressor","Alexandrium",22,"Present",100,"Phyto052522PSP14.21 DA",2022-05-25
-"797","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","Dsum","60","DSP","Dinophysis",60,"Present",750,"Phyto052522PSP14.21 Dsum",2022-05-25
+"781","Phyto060122PSP14.21","Newagen","PSP14.21",2022-06-01,"43.78639","-69.65778","AL","22","Shellfish Stressor","Alexandrium",22,"Present",100,"Phyto060122PSP14.21 AL",2022-06-01
+"782","Phyto060122PSP14.21","Newagen","PSP14.21",2022-06-01,"43.78639","-69.65778","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto060122PSP14.21 DN",2022-06-01
+"783","Phyto060122PSP14.21","Newagen","PSP14.21",2022-06-01,"43.78639","-69.65778","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto060122PSP14.21 Dsum",2022-06-01
+"784","Phyto060122PSP17.14","Kidder Point","PSP17.14",2022-06-01,"44.461389","-68.8825","AL","210","Shellfish Stressor","Alexandrium",210,"Abundant",100,"Phyto060122PSP17.14 AL",2022-06-01
+"785","Phyto060122PSP17.14","Kidder Point","PSP17.14",2022-06-01,"44.461389","-68.8825","DN","30","Shellfish Stressor","Alexandrium",30,"Present",100,"Phyto060122PSP17.14 DN",2022-06-01
+"786","Phyto060122PSP17.14","Kidder Point","PSP17.14",2022-06-01,"44.461389","-68.8825","PNLG","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto060122PSP17.14 PNLG",2022-06-01
+"787","Phyto060122PSP17.14","Kidder Point","PSP17.14",2022-06-01,"44.461389","-68.8825","Dsum","30","DSP","Dinophysis",30,"Present",750,"Phyto060122PSP17.14 Dsum",2022-06-01
+"788","Phyto053122PSP19.38","Burntcoat Hbr.","PSP19.38",2022-05-31,"44.14834","-68.44768","PNSM","592","Shellfish Stressor","Alexandrium",592,"Abundant",100,"Phyto053122PSP19.38 PNSM",2022-05-31
+"789","Phyto053122PSP19.38","Burntcoat Hbr.","PSP19.38",2022-05-31,"44.14834","-68.44768","AL","30","Shellfish Stressor","Alexandrium",30,"Present",100,"Phyto053122PSP19.38 AL",2022-05-31
+"790","Phyto053122PSP19.38","Burntcoat Hbr.","PSP19.38",2022-05-31,"44.14834","-68.44768","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP19.38 DN",2022-05-31
+"791","Phyto053122PSP19.38","Burntcoat Hbr.","PSP19.38",2022-05-31,"44.14834","-68.44768","PNLG","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP19.38 PNLG",2022-05-31
+"792","Phyto053122PSP19.38","Burntcoat Hbr.","PSP19.38",2022-05-31,"44.14834","-68.44768","Dsum","8","DSP","Dinophysis",8,"Present",750,"Phyto053122PSP19.38 Dsum",2022-05-31
+"793","Phyto053122PSP18.30","Isleboro Ferry Float","PSP18.30",2022-05-31,"44.28055","-68.9424","DN","52","Shellfish Stressor","Alexandrium",52,"Present",100,"Phyto053122PSP18.30 DN",2022-05-31
+"794","Phyto053122PSP18.30","Isleboro Ferry Float","PSP18.30",2022-05-31,"44.28055","-68.9424","AL","82","Shellfish Stressor","Alexandrium",82,"Present",100,"Phyto053122PSP18.30 AL",2022-05-31
+"795","Phyto053122PSP18.30","Isleboro Ferry Float","PSP18.30",2022-05-31,"44.28055","-68.9424","DA","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP18.30 DA",2022-05-31
+"796","Phyto053122PSP18.30","Isleboro Ferry Float","PSP18.30",2022-05-31,"44.28055","-68.9424","PNSM","38","Shellfish Stressor","Alexandrium",38,"Present",100,"Phyto053122PSP18.30 PNSM",2022-05-31
+"797","Phyto053122PSP18.30","Isleboro Ferry Float","PSP18.30",2022-05-31,"44.28055","-68.9424","Dsum","60","DSP","Dinophysis",60,"Present",750,"Phyto053122PSP18.30 Dsum",2022-05-31
+"798","Phyto053122PSP25.13","Shoppee Pt.","PSP25.13",2022-05-31,"44.61523","-67.49666","AL","300","Shellfish Stressor","Alexandrium",300,"Abundant",100,"Phyto053122PSP25.13 AL",2022-05-31
+"799","Phyto053122PSP25.13","Shoppee Pt.","PSP25.13",2022-05-31,"44.61523","-67.49666","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP25.13 DN",2022-05-31
+"800","Phyto053122PSP25.13","Shoppee Pt.","PSP25.13",2022-05-31,"44.61523","-67.49666","Dsum","8","DSP","Dinophysis",8,"Present",750,"Phyto053122PSP25.13 Dsum",2022-05-31
+"801","Phyto053122PSP25.06","Kelley Pt.","PSP25.06",2022-05-31,"44.53205","-67.5655","PNSM","30","Shellfish Stressor","Alexandrium",30,"Present",100,"Phyto053122PSP25.06 PNSM",2022-05-31
+"802","Phyto053122PSP23.07","Corea Hbr.","PSP23.07",2022-05-31,"44.39319","-67.97628","PNSM","2295","Shellfish Stressor","Alexandrium",2295,"Abundant",100,"Phyto053122PSP23.07 PNSM",2022-05-31
+"803","Phyto053122PSP23.07","Corea Hbr.","PSP23.07",2022-05-31,"44.39319","-67.97628","AL","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP23.07 AL",2022-05-31
+"804","Phyto053122PSP23.07","Corea Hbr.","PSP23.07",2022-05-31,"44.39319","-67.97628","PNLG","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP23.07 PNLG",2022-05-31
+"805","Phyto053122PSP10.02","Great Cove Marina","PSP10.02",2022-05-31,"43.09612","-70.76781","AL","40","Shellfish Stressor","Alexandrium",40,"Present",100,"Phyto053122PSP10.02 AL",2022-05-31
+"806","Phyto053122PSP10.02","Great Cove Marina","PSP10.02",2022-05-31,"43.09612","-70.76781","PNSM","64","Shellfish Stressor","Alexandrium",64,"Present",100,"Phyto053122PSP10.02 PNSM",2022-05-31
+"807","Phyto053122PSP10.02","Great Cove Marina","PSP10.02",2022-05-31,"43.09612","-70.76781","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP10.02 DN",2022-05-31
+"808","Phyto053122PSP10.02","Great Cove Marina","PSP10.02",2022-05-31,"43.09612","-70.76781","Dsum","8","DSP","Dinophysis",8,"Present",750,"Phyto053122PSP10.02 Dsum",2022-05-31
+"809","Phyto053122PSP10.29","Pine Point","PSP10.29",2022-05-31,"43.54459","-70.33231","AL","45","Shellfish Stressor","Alexandrium",45,"Present",100,"Phyto053122PSP10.29 AL",2022-05-31
+"810","Phyto053122PSP10.29","Pine Point","PSP10.29",2022-05-31,"43.54459","-70.33231","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053122PSP10.29 DN",2022-05-31
+"811","Phyto053122PSP10.29","Pine Point","PSP10.29",2022-05-31,"43.54459","-70.33231","Dsum","8","DSP","Dinophysis",8,"Present",750,"Phyto053122PSP10.29 Dsum",2022-05-31
+"812","Phyto053022PSP11.111","CAS LON","PSP11.111",2022-05-30,"43.708","-70.159","AL","68","Shellfish Stressor","Alexandrium",68,"Present",100,"Phyto053022PSP11.111 AL",2022-05-30
+"813","Phyto053022PSP11.111","CAS LON","PSP11.111",2022-05-30,"43.708","-70.159","PNLG","630","Shellfish Stressor","Alexandrium",630,"Abundant",100,"Phyto053022PSP11.111 PNLG",2022-05-30
+"814","Phyto053022PSP11.111","CAS LON","PSP11.111",2022-05-30,"43.708","-70.159","PNSM","1215","Shellfish Stressor","Alexandrium",1215,"Abundant",100,"Phyto053022PSP11.111 PNSM",2022-05-30
+"815","Phyto053022PSP11.111","CAS LON","PSP11.111",2022-05-30,"43.708","-70.159","DA","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053022PSP11.111 DA",2022-05-30
+"816","Phyto053022PSP11.111","CAS LON","PSP11.111",2022-05-30,"43.708","-70.159","DN","22","Shellfish Stressor","Alexandrium",22,"Present",100,"Phyto053022PSP11.111 DN",2022-05-30
+"817","Phyto053022PSP11.111","CAS LON","PSP11.111",2022-05-30,"43.708","-70.159","Dsum","30","DSP","Dinophysis",30,"Present",750,"Phyto053022PSP11.111 Dsum",2022-05-30
+"818","Phyto053022PSP11.115","CAS BASK","PSP11.115",2022-05-30,"43.73316","-70.16358","AL","165","Shellfish Stressor","Alexandrium",165,"Abundant",100,"Phyto053022PSP11.115 AL",2022-05-30
+"819","Phyto053022PSP11.115","CAS BASK","PSP11.115",2022-05-30,"43.73316","-70.16358","PNLG","525","Shellfish Stressor","Alexandrium",525,"Abundant",100,"Phyto053022PSP11.115 PNLG",2022-05-30
+"820","Phyto053022PSP11.115","CAS BASK","PSP11.115",2022-05-30,"43.73316","-70.16358","PNSM","1012","Shellfish Stressor","Alexandrium",1012,"Abundant",100,"Phyto053022PSP11.115 PNSM",2022-05-30
+"821","Phyto053022PSP11.115","CAS BASK","PSP11.115",2022-05-30,"43.73316","-70.16358","DA","22","Shellfish Stressor","Alexandrium",22,"Present",100,"Phyto053022PSP11.115 DA",2022-05-30
+"822","Phyto053022PSP11.115","CAS BASK","PSP11.115",2022-05-30,"43.73316","-70.16358","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053022PSP11.115 DN",2022-05-30
+"823","Phyto053022PSP11.115","CAS BASK","PSP11.115",2022-05-30,"43.73316","-70.16358","Dsum","30","DSP","Dinophysis",30,"Present",750,"Phyto053022PSP11.115 Dsum",2022-05-30
+"824","Phyto053022PSP11.117","CAS CF3","PSP11.117",2022-05-30,"43.71199","-70.18787","PNSM","2745","Shellfish Stressor","Alexandrium",2745,"Abundant",100,"Phyto053022PSP11.117 PNSM",2022-05-30
+"825","Phyto053022PSP11.117","CAS CF3","PSP11.117",2022-05-30,"43.71199","-70.18787","AL","322","Shellfish Stressor","Alexandrium",322,"Abundant",100,"Phyto053022PSP11.117 AL",2022-05-30
+"826","Phyto053022PSP11.117","CAS CF3","PSP11.117",2022-05-30,"43.71199","-70.18787","PNLG","502","Shellfish Stressor","Alexandrium",502,"Abundant",100,"Phyto053022PSP11.117 PNLG",2022-05-30
+"827","Phyto053022PSP11.117","CAS CF3","PSP11.117",2022-05-30,"43.71199","-70.18787","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053022PSP11.117 DN",2022-05-30
+"828","Phyto053022PSP11.117","CAS CF3","PSP11.117",2022-05-30,"43.71199","-70.18787","Dsum","8","DSP","Dinophysis",8,"Present",750,"Phyto053022PSP11.117 Dsum",2022-05-30
+"829","Phyto053022PSP19.15","Stonington","PSP19.15",2022-05-30,"44.15419","-68.65947","AL","22","Shellfish Stressor","Alexandrium",22,"Present",100,"Phyto053022PSP19.15 AL",2022-05-30
+"830","Phyto053022PSP19.15","Stonington","PSP19.15",2022-05-30,"44.15419","-68.65947","PNSM","195","Shellfish Stressor","Alexandrium",195,"Abundant",100,"Phyto053022PSP19.15 PNSM",2022-05-30
+"831","Phyto053022PSP19.15","Stonington","PSP19.15",2022-05-30,"44.15419","-68.65947","PNLG","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053022PSP19.15 PNLG",2022-05-30
+"832","Phyto053022PSP19.15","Stonington","PSP19.15",2022-05-30,"44.15419","-68.65947","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto053022PSP19.15 DN",2022-05-30
+"833","Phyto053022PSP19.15","Stonington","PSP19.15",2022-05-30,"44.15419","-68.65947","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto053022PSP19.15 Dsum",2022-05-30
+"834","Phyto053022PSP19.33","Blue Hill Falls","PSP19.33",2022-05-30,"44.37713","-68.5612","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto053022PSP19.33 DN",2022-05-30
+"835","Phyto053022PSP19.33","Blue Hill Falls","PSP19.33",2022-05-30,"44.37713","-68.5612","PR","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto053022PSP19.33 PR",2022-05-30
+"836","Phyto053022PSP19.33","Blue Hill Falls","PSP19.33",2022-05-30,"44.37713","-68.5612","Dsum","30","DSP","Dinophysis",30,"Present",750,"Phyto053022PSP19.33 Dsum",2022-05-30
+"837","Phyto053022PSP21.09","Bass Hbr.","PSP21.09",2022-05-30,"44.23824","-68.34792","AL","82","Shellfish Stressor","Alexandrium",82,"Present",100,"Phyto053022PSP21.09 AL",2022-05-30
+"838","Phyto053022PSP21.09","Bass Hbr.","PSP21.09",2022-05-30,"44.23824","-68.34792","DN","38","Shellfish Stressor","Alexandrium",38,"Present",100,"Phyto053022PSP21.09 DN",2022-05-30
+"839","Phyto053022PSP21.09","Bass Hbr.","PSP21.09",2022-05-30,"44.23824","-68.34792","PNSM","8226","Shellfish Stressor","Alexandrium",8226,"Abundant",100,"Phyto053022PSP21.09 PNSM",2022-05-30
+"840","Phyto053022PSP21.09","Bass Hbr.","PSP21.09",2022-05-30,"44.23824","-68.34792","Dsum","38","DSP","Dinophysis",38,"Present",750,"Phyto053022PSP21.09 Dsum",2022-05-30
+"841","Phyto053022PSP17.1","Lincolnville Beach","PSP17.1",2022-05-30,"44.28237","-69.00738","AL","17","Shellfish Stressor","Alexandrium",17,"Present",100,"Phyto053022PSP17.1 AL",2022-05-30
+"842","Phyto053022PSP17.1","Lincolnville Beach","PSP17.1",2022-05-30,"44.28237","-69.00738","DA","0","Shellfish Stressor","Alexandrium",0,"None Detected",100,"Phyto053022PSP17.1 DA",2022-05-30
+"843","Phyto053022PSP17.1","Lincolnville Beach","PSP17.1",2022-05-30,"44.28237","-69.00738","DN","42","Shellfish Stressor","Alexandrium",42,"Present",100,"Phyto053022PSP17.1 DN",2022-05-30
+"844","Phyto053022PSP17.1","Lincolnville Beach","PSP17.1",2022-05-30,"44.28237","-69.00738","PNLG","0","Shellfish Stressor","Alexandrium",0,"None Detected",100,"Phyto053022PSP17.1 PNLG",2022-05-30
+"845","Phyto053022PSP17.1","Lincolnville Beach","PSP17.1",2022-05-30,"44.28237","-69.00738","PNSM","34","Shellfish Stressor","Alexandrium",34,"Present",100,"Phyto053022PSP17.1 PNSM",2022-05-30
+"846","Phyto053022PSP17.1","Lincolnville Beach","PSP17.1",2022-05-30,"44.28237","-69.00738","Dsum","42","DSP","Dinophysis",42,"Present",750,"Phyto053022PSP17.1 Dsum",2022-05-30
+"847","Phyto053022PSP16.41","Port Clyde","PSP16.41",2022-05-30,"43.92526","-69.259","AL","98","Shellfish Stressor","Alexandrium",98,"Present",100,"Phyto053022PSP16.41 AL",2022-05-30
+"848","Phyto053022PSP16.41","Port Clyde","PSP16.41",2022-05-30,"43.92526","-69.259","PNLG","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto053022PSP16.41 PNLG",2022-05-30
+"849","Phyto053022PSP16.41","Port Clyde","PSP16.41",2022-05-30,"43.92526","-69.259","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto053022PSP16.41 DN",2022-05-30
+"850","Phyto053022PSP16.41","Port Clyde","PSP16.41",2022-05-30,"43.92526","-69.259","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto053022PSP16.41 Dsum",2022-05-30
+"851","Phyto053022PSP12.28","Bear Island","PSP12.28",2022-05-30,"43.78556","-69.87415","AL","120","Shellfish Stressor","Alexandrium",120,"Abundant",100,"Phyto053022PSP12.28 AL",2022-05-30
+"852","Phyto053022PSP12.28","Bear Island","PSP12.28",2022-05-30,"43.78556","-69.87415","DA","225","Shellfish Stressor","Alexandrium",225,"Abundant",100,"Phyto053022PSP12.28 DA",2022-05-30
+"853","Phyto053022PSP12.28","Bear Island","PSP12.28",2022-05-30,"43.78556","-69.87415","PNLG","45","Shellfish Stressor","Alexandrium",45,"Present",100,"Phyto053022PSP12.28 PNLG",2022-05-30
+"854","Phyto053022PSP12.28","Bear Island","PSP12.28",2022-05-30,"43.78556","-69.87415","Dsum","225","DSP","Dinophysis",225,"Present",750,"Phyto053022PSP12.28 Dsum",2022-05-30
+"855","Phyto052922PSP27.46","Gleason Cove","PSP27.46",2022-05-29,"44.97084","-67.05254","PNSM","2992","Shellfish Stressor","Alexandrium",2992,"Abundant",100,"Phyto052922PSP27.46 PNSM",2022-05-29
+"856","Phyto052922PSP27.46","Gleason Cove","PSP27.46",2022-05-29,"44.97084","-67.05254","PNLG","180","Shellfish Stressor","Alexandrium",180,"Abundant",100,"Phyto052922PSP27.46 PNLG",2022-05-29
+"857","Phyto052922PSP27.46","Gleason Cove","PSP27.46",2022-05-29,"44.97084","-67.05254","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto052922PSP27.46 DN",2022-05-29
+"858","Phyto052922PSP27.46","Gleason Cove","PSP27.46",2022-05-29,"44.97084","-67.05254","AL","112","Shellfish Stressor","Alexandrium",112,"Abundant",100,"Phyto052922PSP27.46 AL",2022-05-29
+"859","Phyto052922PSP27.46","Gleason Cove","PSP27.46",2022-05-29,"44.97084","-67.05254","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto052922PSP27.46 Dsum",2022-05-29
+"860","Phyto052922PSP27.05","Gove Pt.","PSP27.05",2022-05-29,"44.90545","-67.05621","PNSM","1785","Shellfish Stressor","Alexandrium",1785,"Abundant",100,"Phyto052922PSP27.05 PNSM",2022-05-29
+"861","Phyto052922PSP27.05","Gove Pt.","PSP27.05",2022-05-29,"44.90545","-67.05621","PNLG","38","Shellfish Stressor","Alexandrium",38,"Present",100,"Phyto052922PSP27.05 PNLG",2022-05-29
+"862","Phyto052922PSP27.05","Gove Pt.","PSP27.05",2022-05-29,"44.90545","-67.05621","AL","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto052922PSP27.05 AL",2022-05-29
+"863","Phyto052922PSP26.15","Lubec Channel","PSP26.15",2022-05-29,"44.85891","-66.98028","PNSM","1336","Shellfish Stressor","Alexandrium",1336,"Abundant",100,"Phyto052922PSP26.15 PNSM",2022-05-29
+"864","Phyto052922PSP26.15","Lubec Channel","PSP26.15",2022-05-29,"44.85891","-66.98028","AL","48","Shellfish Stressor","Alexandrium",48,"Present",100,"Phyto052922PSP26.15 AL",2022-05-29
+"865","Phyto052922PSP26.07","Cutler Hbr.","PSP26.07",2022-05-29,"44.65701","-67.20525","AL","225","Shellfish Stressor","Alexandrium",225,"Abundant",100,"Phyto052922PSP26.07 AL",2022-05-29
+"866","Phyto052922PSP12.13","Lumbos Hole","PSP12.13",2022-05-29,"43.79553","-69.94557","AL","52","Shellfish Stressor","Alexandrium",52,"Present",100,"Phyto052922PSP12.13 AL",2022-05-29
+"867","Phyto052922PSP12.13","Lumbos Hole","PSP12.13",2022-05-29,"43.79553","-69.94557","DA","60","Shellfish Stressor","Alexandrium",60,"Present",100,"Phyto052922PSP12.13 DA",2022-05-29
+"868","Phyto052922PSP12.13","Lumbos Hole","PSP12.13",2022-05-29,"43.79553","-69.94557","Dsum","60","DSP","Dinophysis",60,"Present",750,"Phyto052922PSP12.13 Dsum",2022-05-29
+"869","Phyto052922PSP12.26","Cundys Harbor","PSP12.26",2022-05-29,"43.78722","-69.89333","AL","210","Shellfish Stressor","Alexandrium",210,"Abundant",100,"Phyto052922PSP12.26 AL",2022-05-29
+"870","Phyto052922PSP12.26","Cundys Harbor","PSP12.26",2022-05-29,"43.78722","-69.89333","PNLG","75","Shellfish Stressor","Alexandrium",75,"Present",100,"Phyto052922PSP12.26 PNLG",2022-05-29
+"871","Phyto052922PSP12.26","Cundys Harbor","PSP12.26",2022-05-29,"43.78722","-69.89333","DA","75","Shellfish Stressor","Alexandrium",75,"Present",100,"Phyto052922PSP12.26 DA",2022-05-29
+"872","Phyto052922PSP12.26","Cundys Harbor","PSP12.26",2022-05-29,"43.78722","-69.89333","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto052922PSP12.26 DN",2022-05-29
+"873","Phyto052922PSP12.26","Cundys Harbor","PSP12.26",2022-05-29,"43.78722","-69.89333","Dsum","90","DSP","Dinophysis",90,"Present",750,"Phyto052922PSP12.26 Dsum",2022-05-29
+"874","Phyto052922PSP12.15","Gurnet","PSP12.15",2022-05-29,"43.85809","-69.91333","AL","784","Shellfish Stressor","Alexandrium",784,"Abundant",100,"Phyto052922PSP12.15 AL",2022-05-29
+"875","Phyto052922PSP12.15","Gurnet","PSP12.15",2022-05-29,"43.85809","-69.91333","PNLG","152","Shellfish Stressor","Alexandrium",152,"Abundant",100,"Phyto052922PSP12.15 PNLG",2022-05-29
+"876","Phyto052922PSP12.15","Gurnet","PSP12.15",2022-05-29,"43.85809","-69.91333","PNSM","384","Shellfish Stressor","Alexandrium",384,"Abundant",100,"Phyto052922PSP12.15 PNSM",2022-05-29
+"877","Phyto052922PSP12.15","Gurnet","PSP12.15",2022-05-29,"43.85809","-69.91333","DA","48","Shellfish Stressor","Alexandrium",48,"Present",100,"Phyto052922PSP12.15 DA",2022-05-29
+"878","Phyto052922PSP12.15","Gurnet","PSP12.15",2022-05-29,"43.85809","-69.91333","Dsum","48","DSP","Dinophysis",48,"Present",750,"Phyto052922PSP12.15 Dsum",2022-05-29
+"879","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","AL","322","Shellfish Stressor","Alexandrium",322,"Abundant",100,"Phyto052522PSP11.110 AL",2022-05-25
+"880","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","PNLG","352","Shellfish Stressor","Alexandrium",352,"Abundant",100,"Phyto052522PSP11.110 PNLG",2022-05-25
+"881","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","PNSM","368","Shellfish Stressor","Alexandrium",368,"Abundant",100,"Phyto052522PSP11.110 PNSM",2022-05-25
+"882","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","DA","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto052522PSP11.110 DA",2022-05-25
+"883","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","DN","8","Shellfish Stressor","Alexandrium",8,"Present",100,"Phyto052522PSP11.110 DN",2022-05-25
+"884","Phyto052522PSP11.110","CAS BA2 Bangs island","PSP11.110",2022-05-25,"43.728","-70.095","Dsum","23","DSP","Dinophysis",23,"Present",750,"Phyto052522PSP11.110 Dsum",2022-05-25
+"885","Phyto052522PSP11.111","CAS LON","PSP11.111",2022-05-25,"43.708","-70.159","AL","240","Shellfish Stressor","Alexandrium",240,"Abundant",100,"Phyto052522PSP11.111 AL",2022-05-25
+"886","Phyto052522PSP11.111","CAS LON","PSP11.111",2022-05-25,"43.708","-70.159","PNSM","458","Shellfish Stressor","Alexandrium",458,"Abundant",100,"Phyto052522PSP11.111 PNSM",2022-05-25
+"887","Phyto052522PSP11.111","CAS LON","PSP11.111",2022-05-25,"43.708","-70.159","PNLG","188","Shellfish Stressor","Alexandrium",188,"Abundant",100,"Phyto052522PSP11.111 PNLG",2022-05-25
+"888","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","AL","82","Shellfish Stressor","Alexandrium",82,"Present",100,"Phyto052522PSP16.41 AL",2022-05-25
+"889","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","PNLG","30","Shellfish Stressor","Alexandrium",30,"Present",100,"Phyto052522PSP16.41 PNLG",2022-05-25
+"890","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","DN","15","Shellfish Stressor","Alexandrium",15,"Present",100,"Phyto052522PSP16.41 DN",2022-05-25
+"891","Phyto052522PSP16.41","Port Clyde","PSP16.41",2022-05-25,"43.92526","-69.259","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto052522PSP16.41 Dsum",2022-05-25
+"892","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","AL","68","Shellfish Stressor","Alexandrium",68,"Present",100,"Phyto052522PSP14.21 AL",2022-05-25
+"893","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","DN","38","Shellfish Stressor","Alexandrium",38,"Present",100,"Phyto052522PSP14.21 DN",2022-05-25
+"894","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","DA","22","Shellfish Stressor","Alexandrium",22,"Present",100,"Phyto052522PSP14.21 DA",2022-05-25
+"895","Phyto052522PSP14.21","Newagen","PSP14.21",2022-05-25,"43.78639","-69.65778","Dsum","60","DSP","Dinophysis",60,"Present",750,"Phyto052522PSP14.21 Dsum",2022-05-25
