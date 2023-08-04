@@ -849,3 +849,115 @@
 "848","Phyto071923PSP24.08","Ripley Pt.","PSP24.08",2023-07-19,"44.52198","-67.79233","PNSM","8","ASP","Pseudo-nitzschia Small",8,"Present",15000,"Phyto071923PSP24.08 PNSM",2023-07-19
 "849","Phyto071923PSP24.08","Ripley Pt.","PSP24.08",2023-07-19,"44.52198","-67.79233","PNLG","82","ASP","Pseudo-nitzschia Large",82,"Present",2000,"Phyto071923PSP24.08 PNLG",2023-07-19
 "850","Phyto071923PSP24.08","Ripley Pt.","PSP24.08",2023-07-19,"44.52198","-67.79233","Dsum","428","DSP","Dinophysis",428,"Present",750,"Phyto071923PSP24.08 Dsum",2023-07-19
+"851","Phyto080423PSP22.01"," Bar Harbor *","PSP22.01",2023-08-04,"44.39342","-68.20833","AL","50","PSP","Alexandrium",50,"Present",100,"Phyto080423PSP22.01 AL",2023-08-04
+"852","Phyto080423PSP22.01"," Bar Harbor *","PSP22.01",2023-08-04,"44.39342","-68.20833","PNLG","340","ASP","Pseudo-nitzschia Large",340,"Present",2000,"Phyto080423PSP22.01 PNLG",2023-08-04
+"853","Phyto080423PSP22.01"," Bar Harbor *","PSP22.01",2023-08-04,"44.39342","-68.20833","PNSM","40","ASP","Pseudo-nitzschia Small",40,"Present",15000,"Phyto080423PSP22.01 PNSM",2023-08-04
+"854","Phyto080423PSP22.01"," Bar Harbor *","PSP22.01",2023-08-04,"44.39342","-68.20833","Dsum","240","DSP","Dinophysis",240,"Present",750,"Phyto080423PSP22.01 Dsum",2023-08-04
+"855","Phyto080323PSP11.133"," Chebeague Island Boatyard *","PSP11.133",2023-08-03,"43.73","-70.109167","PNLG","750","ASP","Pseudo-nitzschia Large",750,"Present",2000,"Phyto080323PSP11.133 PNLG",2023-08-03
+"856","Phyto080323PSP11.133"," Chebeague Island Boatyard *","PSP11.133",2023-08-03,"43.73","-70.109167","PNSM","60","ASP","Pseudo-nitzschia Small",60,"Present",15000,"Phyto080323PSP11.133 PNSM",2023-08-03
+"857","Phyto080323PSP11.133"," Chebeague Island Boatyard *","PSP11.133",2023-08-03,"43.73","-70.109167","Dsum","900","DSP","Dinophysis",900,"Present",750,"Phyto080323PSP11.133 Dsum",2023-08-03
+"858","Phyto080223PSP10.2"," Cape Porpoise *","PSP10.2",2023-08-03,"43.36592","-70.43032","Dsum","16","DSP","Dinophysis",16,"Present",750,"Phyto080223PSP10.2 Dsum",2023-08-03
+"859","Phyto080223PSP18.21"," Hurricane Island *","PSP18.21",2023-08-02,"44.0329","-68.8837","PNSM","60","ASP","Pseudo-nitzschia Small",60,"Present",15000,"Phyto080223PSP18.21 PNSM",2023-08-02
+"860","Phyto080223PSP18.21"," Hurricane Island *","PSP18.21",2023-08-02,"44.0329","-68.8837","PNLG","255","ASP","Pseudo-nitzschia Large",255,"Present",2000,"Phyto080223PSP18.21 PNLG",2023-08-02
+"861","Phyto080223PSP18.21"," Hurricane Island *","PSP18.21",2023-08-02,"44.0329","-68.8837","Dsum","833","DSP","Dinophysis",833,"Present",750,"Phyto080223PSP18.21 Dsum",2023-08-02
+"862","Phyto080223PSP12.6"," Fort Popham *","PSP12.6",2023-08-02,"43.755061","-69.784828","PNLG","682","ASP","Pseudo-nitzschia Large",682,"Present",2000,"Phyto080223PSP12.6 PNLG",2023-08-02
+"863","Phyto080223PSP12.6"," Fort Popham *","PSP12.6",2023-08-02,"43.755061","-69.784828","PNSM","938","ASP","Pseudo-nitzschia Small",938,"Present",15000,"Phyto080223PSP12.6 PNSM",2023-08-02
+"864","Phyto080223PSP12.6"," Fort Popham *","PSP12.6",2023-08-02,"43.755061","-69.784828","Dsum","45","DSP","Dinophysis",45,"Present",750,"Phyto080223PSP12.6 Dsum",2023-08-02
+"865","Phyto080223PSP12.13","Lumbos Hole","PSP12.13",2023-08-02,"43.79553","-69.94557","PNLG","30","ASP","Pseudo-nitzschia Large",30,"Present",2000,"Phyto080223PSP12.13 PNLG",2023-08-02
+"866","Phyto080223PSP12.13","Lumbos Hole","PSP12.13",2023-08-02,"43.79553","-69.94557","Dsum","30","DSP","Dinophysis",30,"Present",750,"Phyto080223PSP12.13 Dsum",2023-08-02
+"867","Phyto080223PSP12.15","Gurnet","PSP12.15",2023-08-02,"43.85809","-69.91333","Dsum","8","DSP","Dinophysis",8,"Present",750,"Phyto080223PSP12.15 Dsum",2023-08-02
+"868","Phyto080223PSP12.26","Cundys Harbor","PSP12.26",2023-08-02,"43.78722","-69.89333","PNLG","45","ASP","Pseudo-nitzschia Large",45,"Present",2000,"Phyto080223PSP12.26 PNLG",2023-08-02
+"869","Phyto080223PSP12.26","Cundys Harbor","PSP12.26",2023-08-02,"43.78722","-69.89333","Dsum","577","DSP","Dinophysis",577,"Present",750,"Phyto080223PSP12.26 Dsum",2023-08-02
+"870","Phyto080223PSP12.28","Bear Island","PSP12.28",2023-08-02,"43.78556","-69.87415","PNLG","45","ASP","Pseudo-nitzschia Large",45,"Present",2000,"Phyto080223PSP12.28 PNLG",2023-08-02
+"871","Phyto080223PSP12.28","Bear Island","PSP12.28",2023-08-02,"43.78556","-69.87415","Dsum","367","DSP","Dinophysis",367,"Present",750,"Phyto080223PSP12.28 Dsum",2023-08-02
+"872","Phyto080223PSP25.06","Kelley Pt.","PSP25.06",2023-08-02,"44.53205","-67.5655","PNLG","3225","ASP","Pseudo-nitzschia Large",3225,"Abundant",2000,"Phyto080223PSP25.06 PNLG",2023-08-02
+"873","Phyto080223PSP25.06","Kelley Pt.","PSP25.06",2023-08-02,"44.53205","-67.5655","PNSM","8258","ASP","Pseudo-nitzschia Small",8258,"Present",15000,"Phyto080223PSP25.06 PNSM",2023-08-02
+"874","Phyto080223PSP25.21","Bucks Hbr.","PSP25.21",2023-08-02,"44.64032","-67.37706","PNLG","19423","ASP","Pseudo-nitzschia Large",19423,"Abundant",2000,"Phyto080223PSP25.21 PNLG",2023-08-02
+"875","Phyto080223PSP25.21","Bucks Hbr.","PSP25.21",2023-08-02,"44.64032","-67.37706","PNSM","25700","ASP","Pseudo-nitzschia Small",25700,"Abundant",15000,"Phyto080223PSP25.21 PNSM",2023-08-02
+"876","Phyto080223PSP25.21","Bucks Hbr.","PSP25.21",2023-08-02,"44.64032","-67.37706","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto080223PSP25.21 Dsum",2023-08-02
+"877","Phyto080223PSP26.07","Cutler Hbr.","PSP26.07",2023-08-02,"44.65701","-67.20525","PNSM","4369","ASP","Pseudo-nitzschia Small",4369,"Present",15000,"Phyto080223PSP26.07 PNSM",2023-08-02
+"878","Phyto080223PSP26.07","Cutler Hbr.","PSP26.07",2023-08-02,"44.65701","-67.20525","PNLG","982","ASP","Pseudo-nitzschia Large",982,"Present",2000,"Phyto080223PSP26.07 PNLG",2023-08-02
+"879","Phyto080223PSP26.07","Cutler Hbr.","PSP26.07",2023-08-02,"44.65701","-67.20525","Dsum","30","DSP","Dinophysis",30,"Present",750,"Phyto080223PSP26.07 Dsum",2023-08-02
+"880","Phyto080123PSP22.03"," Salsbury Cove *","PSP22.03",2023-08-01,"44.43248","-68.28517","AL","38","PSP","Alexandrium",38,"Present",100,"Phyto080123PSP22.03 AL",2023-08-01
+"881","Phyto080123PSP22.03"," Salsbury Cove *","PSP22.03",2023-08-01,"44.43248","-68.28517","PNSM","255","ASP","Pseudo-nitzschia Small",255,"Present",15000,"Phyto080123PSP22.03 PNSM",2023-08-01
+"882","Phyto080123PSP22.03"," Salsbury Cove *","PSP22.03",2023-08-01,"44.43248","-68.28517","Dsum","172","DSP","Dinophysis",172,"Present",750,"Phyto080123PSP22.03 Dsum",2023-08-01
+"883","Phyto080123PSP15.13"," Christmas Cove *","PSP15.13",2023-08-01,"43.84756","-69.55702","PNSM","1995","ASP","Pseudo-nitzschia Small",1995,"Present",15000,"Phyto080123PSP15.13 PNSM",2023-08-01
+"884","Phyto080123PSP15.13"," Christmas Cove *","PSP15.13",2023-08-01,"43.84756","-69.55702","PNLG","128","ASP","Pseudo-nitzschia Large",128,"Present",2000,"Phyto080123PSP15.13 PNLG",2023-08-01
+"885","Phyto080123PSP15.13"," Christmas Cove *","PSP15.13",2023-08-01,"43.84756","-69.55702","Dsum","38","DSP","Dinophysis",38,"Present",750,"Phyto080123PSP15.13 Dsum",2023-08-01
+"886","Phyto080123PSP27.05","Gove Pt.","PSP27.05",2023-08-01,"44.90545","-67.05621","PNSM","5147","ASP","Pseudo-nitzschia Small",5147,"Present",15000,"Phyto080123PSP27.05 PNSM",2023-08-01
+"887","Phyto080123PSP27.05","Gove Pt.","PSP27.05",2023-08-01,"44.90545","-67.05621","PNLG","4564","ASP","Pseudo-nitzschia Large",4564,"Abundant",2000,"Phyto080123PSP27.05 PNLG",2023-08-01
+"888","Phyto080123PSP27.05","Gove Pt.","PSP27.05",2023-08-01,"44.90545","-67.05621","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto080123PSP27.05 Dsum",2023-08-01
+"889","Phyto080123PSP27.46","Gleason Cove","PSP27.46",2023-08-01,"44.97084","-67.05254","PNSM","2092","ASP","Pseudo-nitzschia Small",2092,"Present",15000,"Phyto080123PSP27.46 PNSM",2023-08-01
+"890","Phyto080123PSP27.46","Gleason Cove","PSP27.46",2023-08-01,"44.97084","-67.05254","PNLG","810","ASP","Pseudo-nitzschia Large",810,"Present",2000,"Phyto080123PSP27.46 PNLG",2023-08-01
+"891","Phyto080123PSP27.46","Gleason Cove","PSP27.46",2023-08-01,"44.97084","-67.05254","Dsum","106","DSP","Dinophysis",106,"Present",750,"Phyto080123PSP27.46 Dsum",2023-08-01
+"892","Phyto073123PSP10.145"," Webhannet River *","PSP10.145",2023-07-31,"43.320514","-70.564503","PNLG","15","ASP","Pseudo-nitzschia Large",15,"Present",2000,"Phyto073123PSP10.145 PNLG",2023-07-31
+"893","Phyto073123PSP10.145"," Webhannet River *","PSP10.145",2023-07-31,"43.320514","-70.564503","Dsum","52","DSP","Dinophysis",52,"Present",750,"Phyto073123PSP10.145 Dsum",2023-07-31
+"894","Phyto073123PSP19.344"," Blue Hill Harbor *","PSP19.344",2023-07-31,"44.412318","-68.585582","AL","8","PSP","Alexandrium",8,"Present",100,"Phyto073123PSP19.344 AL",2023-07-31
+"895","Phyto073123PSP19.344"," Blue Hill Harbor *","PSP19.344",2023-07-31,"44.412318","-68.585582","PNSM","75","ASP","Pseudo-nitzschia Small",75,"Present",15000,"Phyto073123PSP19.344 PNSM",2023-07-31
+"896","Phyto073123PSP19.344"," Blue Hill Harbor *","PSP19.344",2023-07-31,"44.412318","-68.585582","Dsum","68","DSP","Dinophysis",68,"Present",750,"Phyto073123PSP19.344 Dsum",2023-07-31
+"897","Phyto073123PSP19.15","Stonington","PSP19.15",2023-07-31,"44.15419","-68.65947","PNSM","14321","ASP","Pseudo-nitzschia Small",14321,"Present",15000,"Phyto073123PSP19.15 PNSM",2023-07-31
+"898","Phyto073123PSP19.15","Stonington","PSP19.15",2023-07-31,"44.15419","-68.65947","PNLG","1875","ASP","Pseudo-nitzschia Large",1875,"Present",2000,"Phyto073123PSP19.15 PNLG",2023-07-31
+"899","Phyto073123PSP19.15","Stonington","PSP19.15",2023-07-31,"44.15419","-68.65947","Dsum","900","DSP","Dinophysis",900,"Present",750,"Phyto073123PSP19.15 Dsum",2023-07-31
+"900","Phyto073123PSP21.09","Bass Hbr.","PSP21.09",2023-07-31,"44.23824","-68.34792","PNSM","14208","ASP","Pseudo-nitzschia Small",14208,"Present",15000,"Phyto073123PSP21.09 PNSM",2023-07-31
+"901","Phyto073123PSP21.09","Bass Hbr.","PSP21.09",2023-07-31,"44.23824","-68.34792","AL","8","PSP","Alexandrium",8,"Present",100,"Phyto073123PSP21.09 AL",2023-07-31
+"902","Phyto073123PSP21.09","Bass Hbr.","PSP21.09",2023-07-31,"44.23824","-68.34792","PNLG","1072","ASP","Pseudo-nitzschia Large",1072,"Present",2000,"Phyto073123PSP21.09 PNLG",2023-07-31
+"903","Phyto073123PSP21.09","Bass Hbr.","PSP21.09",2023-07-31,"44.23824","-68.34792","Dsum","322","DSP","Dinophysis",322,"Present",750,"Phyto073123PSP21.09 Dsum",2023-07-31
+"904","Phyto073123PSP11.17","Flying Pt","PSP11.17",2023-07-31,"43.8097","-70.06895","Dsum","60","DSP","Dinophysis",60,"Present",750,"Phyto073123PSP11.17 Dsum",2023-07-31
+"905","Phyto073123PSP10.29","Pine Point","PSP10.29",2023-07-31,"43.54459","-70.33231","PNLG","16","ASP","Pseudo-nitzschia Large",16,"Present",2000,"Phyto073123PSP10.29 PNLG",2023-07-31
+"906","Phyto073123PSP10.29","Pine Point","PSP10.29",2023-07-31,"43.54459","-70.33231","Dsum","16","DSP","Dinophysis",16,"Present",750,"Phyto073123PSP10.29 Dsum",2023-07-31
+"907","Phyto073023PSP19.042"," Bagaduce South *","PSP19.042",2023-07-30,"44.39795","-68.70553","PNLG","8","ASP","Pseudo-nitzschia Large",8,"Present",2000,"Phyto073023PSP19.042 PNLG",2023-07-30
+"908","Phyto073023PSP19.042"," Bagaduce South *","PSP19.042",2023-07-30,"44.39795","-68.70553","PNSM","8","ASP","Pseudo-nitzschia Small",8,"Present",15000,"Phyto073023PSP19.042 PNSM",2023-07-30
+"909","Phyto073023PSP19.042"," Bagaduce South *","PSP19.042",2023-07-30,"44.39795","-68.70553","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto073023PSP19.042 Dsum",2023-07-30
+"910","Phyto073023PSP19.044"," Smith Cove *","PSP19.044",2023-07-30,"44.372902","-68.76036","PNSM","8","ASP","Pseudo-nitzschia Small",8,"Present",15000,"Phyto073023PSP19.044 PNSM",2023-07-30
+"911","Phyto073023PSP19.044"," Smith Cove *","PSP19.044",2023-07-30,"44.372902","-68.76036","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto073023PSP19.044 Dsum",2023-07-30
+"912","Phyto073023PSP23.07","Corea Hbr.","PSP23.07",2023-07-30,"44.39319","-67.97628","PNSM","8152","ASP","Pseudo-nitzschia Small",8152,"Present",15000,"Phyto073023PSP23.07 PNSM",2023-07-30
+"913","Phyto073023PSP23.07","Corea Hbr.","PSP23.07",2023-07-30,"44.39319","-67.97628","PNLG","2295","ASP","Pseudo-nitzschia Large",2295,"Abundant",2000,"Phyto073023PSP23.07 PNLG",2023-07-30
+"914","Phyto073023PSP24.08","Ripley Pt.","PSP24.08",2023-07-30,"44.52198","-67.79233","PNSM","15060","ASP","Pseudo-nitzschia Small",15060,"Abundant",15000,"Phyto073023PSP24.08 PNSM",2023-07-30
+"915","Phyto073023PSP24.08","Ripley Pt.","PSP24.08",2023-07-30,"44.52198","-67.79233","PNLG","13263","ASP","Pseudo-nitzschia Large",13263,"Abundant",2000,"Phyto073023PSP24.08 PNLG",2023-07-30
+"916","Phyto073023PSP14.21","Newagen","PSP14.21",2023-07-30,"43.78639","-69.65778","PNLG","308","ASP","Pseudo-nitzschia Large",308,"Present",2000,"Phyto073023PSP14.21 PNLG",2023-07-30
+"917","Phyto073023PSP14.21","Newagen","PSP14.21",2023-07-30,"43.78639","-69.65778","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto073023PSP14.21 Dsum",2023-07-30
+"918","Phyto073023PSP17.1","Lincolnville Beach","PSP17.1",2023-07-30,"44.28237","-69.00738","PNSM","68","ASP","Pseudo-nitzschia Small",68,"Present",15000,"Phyto073023PSP17.1 PNSM",2023-07-30
+"919","Phyto073023PSP17.1","Lincolnville Beach","PSP17.1",2023-07-30,"44.28237","-69.00738","PNLG","352","ASP","Pseudo-nitzschia Large",352,"Present",2000,"Phyto073023PSP17.1 PNLG",2023-07-30
+"920","Phyto073023PSP17.1","Lincolnville Beach","PSP17.1",2023-07-30,"44.28237","-69.00738","Dsum","412","DSP","Dinophysis",412,"Present",750,"Phyto073023PSP17.1 Dsum",2023-07-30
+"921","Phyto073023PSP17.14","Kidder Point","PSP17.14",2023-07-30,"44.461389","-68.8825","PNLG","38","ASP","Pseudo-nitzschia Large",38,"Present",2000,"Phyto073023PSP17.14 PNLG",2023-07-30
+"922","Phyto073023PSP17.14","Kidder Point","PSP17.14",2023-07-30,"44.461389","-68.8825","Dsum","540","DSP","Dinophysis",540,"Present",750,"Phyto073023PSP17.14 Dsum",2023-07-30
+"923","Phyto073023PSP16.41","Port Clyde","PSP16.41",2023-07-30,"43.92526","-69.259","PNSM","548","ASP","Pseudo-nitzschia Small",548,"Present",15000,"Phyto073023PSP16.41 PNSM",2023-07-30
+"924","Phyto073023PSP16.41","Port Clyde","PSP16.41",2023-07-30,"43.92526","-69.259","PNLG","1192","ASP","Pseudo-nitzschia Large",1192,"Present",2000,"Phyto073023PSP16.41 PNLG",2023-07-30
+"925","Phyto073023PSP16.41","Port Clyde","PSP16.41",2023-07-30,"43.92526","-69.259","Dsum","1702","DSP","Dinophysis",1702,"Present",750,"Phyto073023PSP16.41 Dsum",2023-07-30
+"926","Phyto072723PSP18.21"," Hurricane Island *","PSP18.21",2023-07-27,"44.0329","-68.8837","PNSM","112","ASP","Pseudo-nitzschia Small",112,"Present",15000,"Phyto072723PSP18.21 PNSM",2023-07-27
+"927","Phyto072723PSP18.21"," Hurricane Island *","PSP18.21",2023-07-27,"44.0329","-68.8837","PNLG","120","ASP","Pseudo-nitzschia Large",120,"Present",2000,"Phyto072723PSP18.21 PNLG",2023-07-27
+"928","Phyto072723PSP18.21"," Hurricane Island *","PSP18.21",2023-07-27,"44.0329","-68.8837","Dsum","360","DSP","Dinophysis",360,"Present",750,"Phyto072723PSP18.21 Dsum",2023-07-27
+"929","Phyto072723PSP19.344"," Blue Hill Harbor *","PSP19.344",2023-07-27,"44.412318","-68.585582","AL","8","PSP","Alexandrium",8,"Present",100,"Phyto072723PSP19.344 AL",2023-07-27
+"930","Phyto072723PSP19.344"," Blue Hill Harbor *","PSP19.344",2023-07-27,"44.412318","-68.585582","PNSM","15","ASP","Pseudo-nitzschia Small",15,"Present",15000,"Phyto072723PSP19.344 PNSM",2023-07-27
+"931","Phyto072723PSP19.344"," Blue Hill Harbor *","PSP19.344",2023-07-27,"44.412318","-68.585582","Dsum","38","DSP","Dinophysis",38,"Present",750,"Phyto072723PSP19.344 Dsum",2023-07-27
+"932","Phyto072723PSP15.13"," Christmas Cove *","PSP15.13",2023-07-27,"43.84756","-69.55702","PNLG","218","ASP","Pseudo-nitzschia Large",218,"Present",2000,"Phyto072723PSP15.13 PNLG",2023-07-27
+"933","Phyto072723PSP15.13"," Christmas Cove *","PSP15.13",2023-07-27,"43.84756","-69.55702","PNSM","2130","ASP","Pseudo-nitzschia Small",2130,"Present",15000,"Phyto072723PSP15.13 PNSM",2023-07-27
+"934","Phyto072723PSP15.13"," Christmas Cove *","PSP15.13",2023-07-27,"43.84756","-69.55702","Dsum","15","DSP","Dinophysis",15,"Present",750,"Phyto072723PSP15.13 Dsum",2023-07-27
+"935","Phyto072623PSP10.145"," Webhannet River *","PSP10.145",2023-07-26,"43.320514","-70.564503","Dsum","750","DSP","Dinophysis",750,"Present",750,"Phyto072623PSP10.145 Dsum",2023-07-26
+"936","Phyto072623PSP25.06","Kelley Pt.","PSP25.06",2023-07-26,"44.53205","-67.5655","PNSM","6024","ASP","Pseudo-nitzschia Small",6024,"Present",15000,"Phyto072623PSP25.06 PNSM",2023-07-26
+"937","Phyto072623PSP25.06","Kelley Pt.","PSP25.06",2023-07-26,"44.53205","-67.5655","PNLG","90","ASP","Pseudo-nitzschia Large",90,"Present",2000,"Phyto072623PSP25.06 PNLG",2023-07-26
+"938","Phyto072623PSP25.06","Kelley Pt.","PSP25.06",2023-07-26,"44.53205","-67.5655","Dsum","8","DSP","Dinophysis",8,"Present",750,"Phyto072623PSP25.06 Dsum",2023-07-26
+"939","Phyto072623PSP26.07","Cutler Hbr.","PSP26.07",2023-07-26,"44.65701","-67.20525","PNSM","6590","ASP","Pseudo-nitzschia Small",6590,"Present",15000,"Phyto072623PSP26.07 PNSM",2023-07-26
+"940","Phyto072623PSP26.07","Cutler Hbr.","PSP26.07",2023-07-26,"44.65701","-67.20525","PNLG","300","ASP","Pseudo-nitzschia Large",300,"Present",2000,"Phyto072623PSP26.07 PNLG",2023-07-26
+"941","Phyto072623PSP26.07","Cutler Hbr.","PSP26.07",2023-07-26,"44.65701","-67.20525","Dsum","376","DSP","Dinophysis",376,"Present",750,"Phyto072623PSP26.07 Dsum",2023-07-26
+"942","Phyto072523PSP27.46","Gleason Cove","PSP27.46",2023-07-25,"44.97084","-67.05254","PNLG","22","ASP","Pseudo-nitzschia Large",22,"Present",2000,"Phyto072523PSP27.46 PNLG",2023-07-25
+"943","Phyto072523PSP27.46","Gleason Cove","PSP27.46",2023-07-25,"44.97084","-67.05254","PNSM","210","ASP","Pseudo-nitzschia Small",210,"Present",15000,"Phyto072523PSP27.46 PNSM",2023-07-25
+"944","Phyto072523PSP27.05","Gove Pt.","PSP27.05",2023-07-25,"44.90545","-67.05621","PNLG","292","ASP","Pseudo-nitzschia Large",292,"Present",2000,"Phyto072523PSP27.05 PNLG",2023-07-25
+"945","Phyto072523PSP27.05","Gove Pt.","PSP27.05",2023-07-25,"44.90545","-67.05621","PNSM","442","ASP","Pseudo-nitzschia Small",442,"Present",15000,"Phyto072523PSP27.05 PNSM",2023-07-25
+"946","Phyto072523PSP27.05","Gove Pt.","PSP27.05",2023-07-25,"44.90545","-67.05621","Dsum","150","DSP","Dinophysis",150,"Present",750,"Phyto072523PSP27.05 Dsum",2023-07-25
+"947","Phyto072423PSP19.15","Stonington","PSP19.15",2023-07-24,"44.15419","-68.65947","PNSM","12664","ASP","Pseudo-nitzschia Small",12664,"Present",15000,"Phyto072423PSP19.15 PNSM",2023-07-24
+"948","Phyto072423PSP19.15","Stonington","PSP19.15",2023-07-24,"44.15419","-68.65947","PNLG","465","ASP","Pseudo-nitzschia Large",465,"Present",2000,"Phyto072423PSP19.15 PNLG",2023-07-24
+"949","Phyto072423PSP19.15","Stonington","PSP19.15",2023-07-24,"44.15419","-68.65947","Dsum","1883","DSP","Dinophysis",1883,"Present",750,"Phyto072423PSP19.15 Dsum",2023-07-24
+"950","Phyto072423PSP21.09","Bass Hbr.","PSP21.09",2023-07-24,"44.23824","-68.34792","PNSM","14794","ASP","Pseudo-nitzschia Small",14794,"Present",15000,"Phyto072423PSP21.09 PNSM",2023-07-24
+"951","Phyto072423PSP21.09","Bass Hbr.","PSP21.09",2023-07-24,"44.23824","-68.34792","PNLG","712","ASP","Pseudo-nitzschia Large",712,"Present",2000,"Phyto072423PSP21.09 PNLG",2023-07-24
+"952","Phyto072423PSP21.09","Bass Hbr.","PSP21.09",2023-07-24,"44.23824","-68.34792","Dsum","218","DSP","Dinophysis",218,"Present",750,"Phyto072423PSP21.09 Dsum",2023-07-24
+"953","Phyto072423PSP18.30","Islesboro Ferry Float","PSP18.30",2023-07-24,"44.28055","-68.9424","PNLG","52","ASP","Pseudo-nitzschia Large",52,"Present",2000,"Phyto072423PSP18.30 PNLG",2023-07-24
+"954","Phyto072423PSP18.30","Islesboro Ferry Float","PSP18.30",2023-07-24,"44.28055","-68.9424","PNSM","45","ASP","Pseudo-nitzschia Small",45,"Present",15000,"Phyto072423PSP18.30 PNSM",2023-07-24
+"955","Phyto072423PSP18.30","Islesboro Ferry Float","PSP18.30",2023-07-24,"44.28055","-68.9424","Dsum","22","DSP","Dinophysis",22,"Present",750,"Phyto072423PSP18.30 Dsum",2023-07-24
+"956","Phyto072323PSP23.07","Corea Hbr.","PSP23.07",2023-07-23,"44.39319","-67.97628","PNLG","15","ASP","Pseudo-nitzschia Large",15,"Present",2000,"Phyto072323PSP23.07 PNLG",2023-07-23
+"957","Phyto072323PSP23.07","Corea Hbr.","PSP23.07",2023-07-23,"44.39319","-67.97628","PNSM","45","ASP","Pseudo-nitzschia Small",45,"Present",15000,"Phyto072323PSP23.07 PNSM",2023-07-23
+"958","Phyto072323PSP23.07","Corea Hbr.","PSP23.07",2023-07-23,"44.39319","-67.97628","Dsum","878","DSP","Dinophysis",878,"Present",750,"Phyto072323PSP23.07 Dsum",2023-07-23
+"959","Phyto072323PSP24.08","Ripley Pt.","PSP24.08",2023-07-23,"44.52198","-67.79233","AL","15","PSP","Alexandrium",15,"Present",100,"Phyto072323PSP24.08 AL",2023-07-23
+"960","Phyto072323PSP24.08","Ripley Pt.","PSP24.08",2023-07-23,"44.52198","-67.79233","PNLG","105","ASP","Pseudo-nitzschia Large",105,"Present",2000,"Phyto072323PSP24.08 PNLG",2023-07-23
+"961","Phyto072323PSP24.08","Ripley Pt.","PSP24.08",2023-07-23,"44.52198","-67.79233","PNSM","165","ASP","Pseudo-nitzschia Small",165,"Present",15000,"Phyto072323PSP24.08 PNSM",2023-07-23
+"962","Phyto072323PSP24.08","Ripley Pt.","PSP24.08",2023-07-23,"44.52198","-67.79233","Dsum","420","DSP","Dinophysis",420,"Present",750,"Phyto072323PSP24.08 Dsum",2023-07-23
